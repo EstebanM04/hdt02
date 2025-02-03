@@ -1,0 +1,6 @@
+org\uvg\calculadora\App.class
+org\uvg\calculadora\PostfixEvaluator.class
+org\uvg\calculadora\VectorStack.class
+org\uvg\calculadora\Calculator.class
+org\uvg\calculadora\Stack.class
+org\uvg\calculadora\ArrayListStack.class
